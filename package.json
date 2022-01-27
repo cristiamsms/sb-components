@@ -9,7 +9,7 @@
     "url": "https://github.com/cristiamsms/sb-components",
     "type": "git"
   },
-  "relese": {
+  "release": {
     "branches": [
       "main"
     ]
